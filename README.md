@@ -49,27 +49,11 @@ Segui abaixo os requisitos mínimos para Host da aplicação GLPI em produção:
 
 
 
-Com a finalidade de ser mais direto ao ponto, não vou explicar como instalar o Ubuntu Server, mas basicamente é uma instalação padrão, onde deixa somente o acesso **SSH** ativado para acessar o host.
+Com a finalidade de ser mais direto ao ponto, não vou explicar como instalar o Ubuntu Server, mas basicamente é uma instalação padrão, onde deixa somente o acesso **SSH** habilitado para acessar o host.
 
-## Recomendações:
+##Baixe o PDF onde está toda a documentação criada para instalação.
 
-Nunca deverá deletar os usuários padrões do **GLPI**. Somente insirar senhas fortes.
-
-| [glpi](http://192.168.18.48:8083/front/user.form.php?id=2)      |
-| --------------------------------------------------------------- |
-| [normal](http://192.168.18.48:8083/front/user.form.php?id=5)    |
-| [post-only](http://192.168.18.48:8083/front/user.form.php?id=3) |
-| [tech](http://192.168.18.48:8083/front/user.form.php?id=4)      |
-
-Faça o registro do seu GLPI no site do desenvolvedor para instalações de plugins.
-
-![](C:\Users\Dirceu%20Vaz\AppData\Roaming\marktext\images\2023-07-16-21-02-05-image.png)
-
-Afinal, e aí gostou desse passo a passo ou tutorial, ou sei lá como queira chamar. Te ajudou a instalar um sistema de Help Desk em sua empresa com a finalidade registrar as suas atividades e indicadores. Espero que sim, qualquer dúvida tô por aí. 
-
-
-
-**CONTATO:**
+##**CONTATO:**
 
 GitHub: https://github.com/dirceuvaz
 

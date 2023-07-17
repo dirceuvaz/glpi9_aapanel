@@ -51,9 +51,9 @@ Segui abaixo os requisitos mínimos para Host da aplicação GLPI em produção:
 
 Com a finalidade de ser mais direto ao ponto, não vou explicar como instalar o Ubuntu Server, mas basicamente é uma instalação padrão, onde deixa somente o acesso **SSH** habilitado para acessar o host.
 
-##Baixe o PDF onde está toda a documentação criada para instalação.
+## Baixe o PDF onde está toda a documentação criada para instalação.
 
-##**CONTATO:**
+## **CONTATO:**
 
 GitHub: https://github.com/dirceuvaz
 

@@ -2,7 +2,8 @@
 
 
 
-![](C:\Users\Dirceu%20Vaz\AppData\Roaming\marktext\images\2023-07-16-12-20-41-image.png)
+![](https://glpi-project.org/wp-content/uploads/2022/01/assets-2.png)
+
 
 
 
